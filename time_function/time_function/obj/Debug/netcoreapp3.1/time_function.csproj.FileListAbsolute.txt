@@ -1,0 +1,11 @@
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\time_function\time_function\bin\Debug\netcoreapp3.1\time_function.exe
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\time_function\time_function\bin\Debug\netcoreapp3.1\time_function.deps.json
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\time_function\time_function\bin\Debug\netcoreapp3.1\time_function.runtimeconfig.json
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\time_function\time_function\bin\Debug\netcoreapp3.1\time_function.runtimeconfig.dev.json
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\time_function\time_function\bin\Debug\netcoreapp3.1\time_function.dll
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\time_function\time_function\bin\Debug\netcoreapp3.1\time_function.pdb
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\time_function\time_function\obj\Debug\netcoreapp3.1\time_function.AssemblyInfoInputs.cache
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\time_function\time_function\obj\Debug\netcoreapp3.1\time_function.AssemblyInfo.cs
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\time_function\time_function\obj\Debug\netcoreapp3.1\time_function.dll
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\time_function\time_function\obj\Debug\netcoreapp3.1\time_function.pdb
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\time_function\time_function\obj\Debug\netcoreapp3.1\time_function.csprojAssemblyReference.cache
