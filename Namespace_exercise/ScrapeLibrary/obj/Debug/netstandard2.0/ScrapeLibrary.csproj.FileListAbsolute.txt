@@ -1,0 +1,8 @@
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\Namespace_exercise\ScrapeLibrary\bin\Debug\netstandard2.0\ScrapeLibrary.deps.json
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\Namespace_exercise\ScrapeLibrary\bin\Debug\netstandard2.0\ScrapeLibrary.dll
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\Namespace_exercise\ScrapeLibrary\bin\Debug\netstandard2.0\ScrapeLibrary.pdb
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\Namespace_exercise\ScrapeLibrary\obj\Debug\netstandard2.0\ScrapeLibrary.csprojAssemblyReference.cache
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\Namespace_exercise\ScrapeLibrary\obj\Debug\netstandard2.0\ScrapeLibrary.AssemblyInfoInputs.cache
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\Namespace_exercise\ScrapeLibrary\obj\Debug\netstandard2.0\ScrapeLibrary.AssemblyInfo.cs
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\Namespace_exercise\ScrapeLibrary\obj\Debug\netstandard2.0\ScrapeLibrary.dll
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\Namespace_exercise\ScrapeLibrary\obj\Debug\netstandard2.0\ScrapeLibrary.pdb

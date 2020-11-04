@@ -1,0 +1,14 @@
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\Namespace_exercise\PrintURL\bin\Debug\netcoreapp3.1\PrintURL.exe
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\Namespace_exercise\PrintURL\bin\Debug\netcoreapp3.1\PrintURL.deps.json
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\Namespace_exercise\PrintURL\bin\Debug\netcoreapp3.1\PrintURL.runtimeconfig.json
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\Namespace_exercise\PrintURL\bin\Debug\netcoreapp3.1\PrintURL.runtimeconfig.dev.json
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\Namespace_exercise\PrintURL\bin\Debug\netcoreapp3.1\PrintURL.dll
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\Namespace_exercise\PrintURL\bin\Debug\netcoreapp3.1\PrintURL.pdb
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\Namespace_exercise\PrintURL\bin\Debug\netcoreapp3.1\ScrapeLibrary.dll
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\Namespace_exercise\PrintURL\bin\Debug\netcoreapp3.1\ScrapeLibrary.pdb
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\Namespace_exercise\PrintURL\obj\Debug\netcoreapp3.1\PrintURL.csprojAssemblyReference.cache
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\Namespace_exercise\PrintURL\obj\Debug\netcoreapp3.1\PrintURL.AssemblyInfoInputs.cache
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\Namespace_exercise\PrintURL\obj\Debug\netcoreapp3.1\PrintURL.AssemblyInfo.cs
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\Namespace_exercise\PrintURL\obj\Debug\netcoreapp3.1\PrintURL.csproj.CopyComplete
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\Namespace_exercise\PrintURL\obj\Debug\netcoreapp3.1\PrintURL.dll
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\Namespace_exercise\PrintURL\obj\Debug\netcoreapp3.1\PrintURL.pdb
