@@ -1,0 +1,11 @@
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\generic_lists\generic_lists\bin\Debug\netcoreapp3.1\generic_lists.exe
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\generic_lists\generic_lists\bin\Debug\netcoreapp3.1\generic_lists.deps.json
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\generic_lists\generic_lists\bin\Debug\netcoreapp3.1\generic_lists.runtimeconfig.json
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\generic_lists\generic_lists\bin\Debug\netcoreapp3.1\generic_lists.runtimeconfig.dev.json
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\generic_lists\generic_lists\bin\Debug\netcoreapp3.1\generic_lists.dll
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\generic_lists\generic_lists\bin\Debug\netcoreapp3.1\generic_lists.pdb
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\generic_lists\generic_lists\obj\Debug\netcoreapp3.1\generic_lists.csprojAssemblyReference.cache
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\generic_lists\generic_lists\obj\Debug\netcoreapp3.1\generic_lists.AssemblyInfoInputs.cache
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\generic_lists\generic_lists\obj\Debug\netcoreapp3.1\generic_lists.AssemblyInfo.cs
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\generic_lists\generic_lists\obj\Debug\netcoreapp3.1\generic_lists.dll
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\generic_lists\generic_lists\obj\Debug\netcoreapp3.1\generic_lists.pdb
