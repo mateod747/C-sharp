@@ -1,0 +1,11 @@
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\classes_hehe\classes_hehe\bin\Debug\netcoreapp3.1\classes_hehe.exe
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\classes_hehe\classes_hehe\bin\Debug\netcoreapp3.1\classes_hehe.deps.json
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\classes_hehe\classes_hehe\bin\Debug\netcoreapp3.1\classes_hehe.runtimeconfig.json
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\classes_hehe\classes_hehe\bin\Debug\netcoreapp3.1\classes_hehe.runtimeconfig.dev.json
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\classes_hehe\classes_hehe\bin\Debug\netcoreapp3.1\classes_hehe.dll
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\classes_hehe\classes_hehe\bin\Debug\netcoreapp3.1\classes_hehe.pdb
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\classes_hehe\classes_hehe\obj\Debug\netcoreapp3.1\classes_hehe.csprojAssemblyReference.cache
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\classes_hehe\classes_hehe\obj\Debug\netcoreapp3.1\classes_hehe.AssemblyInfoInputs.cache
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\classes_hehe\classes_hehe\obj\Debug\netcoreapp3.1\classes_hehe.AssemblyInfo.cs
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\classes_hehe\classes_hehe\obj\Debug\netcoreapp3.1\classes_hehe.dll
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\classes_hehe\classes_hehe\obj\Debug\netcoreapp3.1\classes_hehe.pdb
