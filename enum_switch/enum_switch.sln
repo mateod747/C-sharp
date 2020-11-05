@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "enum_switch", "enum_switch\enum_switch.csproj", "{0C178D8D-2232-4F3F-88C5-595876C8560B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C178D8D-2232-4F3F-88C5-595876C8560B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C178D8D-2232-4F3F-88C5-595876C8560B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C178D8D-2232-4F3F-88C5-595876C8560B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C178D8D-2232-4F3F-88C5-595876C8560B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B15B245-5B15-46DF-95C0-B498DACBF4EF}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\enum_switch\enum_switch\bin\Debug\netcoreapp3.1\enum_switch.exe
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\enum_switch\enum_switch\bin\Debug\netcoreapp3.1\enum_switch.deps.json
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\enum_switch\enum_switch\bin\Debug\netcoreapp3.1\enum_switch.runtimeconfig.json
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\enum_switch\enum_switch\bin\Debug\netcoreapp3.1\enum_switch.runtimeconfig.dev.json
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\enum_switch\enum_switch\bin\Debug\netcoreapp3.1\enum_switch.dll
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\enum_switch\enum_switch\bin\Debug\netcoreapp3.1\enum_switch.pdb
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\enum_switch\enum_switch\obj\Debug\netcoreapp3.1\enum_switch.csprojAssemblyReference.cache
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\enum_switch\enum_switch\obj\Debug\netcoreapp3.1\enum_switch.AssemblyInfoInputs.cache
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\enum_switch\enum_switch\obj\Debug\netcoreapp3.1\enum_switch.AssemblyInfo.cs
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\enum_switch\enum_switch\obj\Debug\netcoreapp3.1\enum_switch.dll
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\enum_switch\enum_switch\obj\Debug\netcoreapp3.1\enum_switch.pdb
