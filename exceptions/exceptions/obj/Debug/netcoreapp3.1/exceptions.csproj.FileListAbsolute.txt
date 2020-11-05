@@ -1,0 +1,11 @@
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\exceptions\exceptions\bin\Debug\netcoreapp3.1\exceptions.exe
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\exceptions\exceptions\bin\Debug\netcoreapp3.1\exceptions.deps.json
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\exceptions\exceptions\bin\Debug\netcoreapp3.1\exceptions.runtimeconfig.json
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\exceptions\exceptions\bin\Debug\netcoreapp3.1\exceptions.runtimeconfig.dev.json
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\exceptions\exceptions\bin\Debug\netcoreapp3.1\exceptions.dll
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\exceptions\exceptions\bin\Debug\netcoreapp3.1\exceptions.pdb
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\exceptions\exceptions\obj\Debug\netcoreapp3.1\exceptions.csprojAssemblyReference.cache
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\exceptions\exceptions\obj\Debug\netcoreapp3.1\exceptions.AssemblyInfoInputs.cache
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\exceptions\exceptions\obj\Debug\netcoreapp3.1\exceptions.AssemblyInfo.cs
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\exceptions\exceptions\obj\Debug\netcoreapp3.1\exceptions.dll
+C:\Users\mateodubinjak\Desktop\C# tutorials\Mono---C-Fundamentals-for-Absolute-Beginners\exceptions\exceptions\obj\Debug\netcoreapp3.1\exceptions.pdb
